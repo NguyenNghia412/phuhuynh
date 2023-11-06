@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\huce.phuhuynh.entities\huce.phuhuynh.entities.csproj" />
+    <ProjectReference Include="..\huce.phuhuynh.lib\huce.phuhuynh.lib.csproj" />
+  </ItemGroup>
+
+</Project>
